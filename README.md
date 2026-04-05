@@ -16,6 +16,13 @@ A web-based Finance Management System built using Java, JSP, Servlets, and MySQL
 
 ---
 
+## 🧠 Key Highlights
+
+- Implemented both Normal EMI and Monthly Flat Interest logic
+- Developed real-time overdue calculation system
+- Integrated email reminders using JavaMail API
+- Designed interactive dashboard with AJAX-based data loading
+
 ## 🛠️ Tech Stack
 
 - Java (Servlets, JSP)
