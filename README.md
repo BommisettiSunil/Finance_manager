@@ -3,7 +3,7 @@
 A web-based Finance Management System built using Java, JSP, Servlets, and MySQL.
 
 ---
-
+ 
 ## 🚀 Features
 
 - 👤 Customer Management (Add, View, Search, Delete)
