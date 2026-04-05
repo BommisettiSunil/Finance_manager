@@ -66,13 +66,13 @@ src/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](http://github.com/BommisettiSunil/Finance_manager/blob/main/dashboard.png)
+![Dashboard](http://github.com/BommisettiSunil/Finance_manager/raw/main/dashboard.png)
 
 ### Add Customer
-![Add Customer](https://github.com/BommisettiSunil/Finance_manager/blob/main/addCustomer.png)
+![Add Customer](https://github.com/BommisettiSunil/Finance_manager/raw/main/addCustomer.png)
 
 ### Loan Page
-![Loan](https://github.com/BommisettiSunil/Finance_manager/blob/main/loan.png)
+![Loan](https://github.com/BommisettiSunil/Finance_manager/raw/main/loan.png)
 
 ### Payment History
-![Payment History](https://github.com/BommisettiSunil/Finance_manager/blob/main/paymentHistory.png)
+![Payment History](https://github.com/BommisettiSunil/Finance_manager/raw/main/paymentHistory.png)
